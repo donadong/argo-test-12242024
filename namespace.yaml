@@ -1,0 +1,6 @@
+apiVersion: project.openshift.io/v1
+description: "instana-agent"
+displayName: instana-agent
+kind: ProjectRequest
+metadata:
+    name: instana-agent
